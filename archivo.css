@@ -1,0 +1,61 @@
+ul{display: flex; justify-content: space-around;border: solid; }
+.in{color: rgb(0, 0, 0);}
+li{list-style: none;}
+.bien{font-size: 40px; position: relative; left: 70px; color: red;}
+.infoprod{ display: flex; justify-content: space-around;}
+.qv{position: relative; left: 100px;}
+.envios1{background-color: blueviolet; border: solid; width: 450px;
+     position: relative; left: 340px;}
+.envios2{font-size: 30px; position: relative ; left: 80px;}
+.a{border: solid; width: 450px; background-color: darkorange;}
+.b{border: solid; width: 450px; background-color: deepskyblue;}
+.marcas{position: relative; left: 50px;}
+.eb{position: relative; left:50px;}
+.ep{position: relative;left: 50px;}
+.skatess{display: flex; justify-content: space-around;}
+.s1{border: solid; transition-property: all;
+transition-duration: .5s;
+transition-timing-function: ease-in-out;}
+.s1:hover{width:350px;border:solid red;}
+
+.s2{border: solid; transition-property: all;
+     transition-duration: .5s;
+     transition-timing-function: ease-in-out;}
+     .s2:hover{width:350px ; border: solid red;}
+     
+     .s3{border: solid; transition-property: all;
+          transition-duration: .5s;
+          transition-timing-function: ease-in-out;}
+          .s3:hover{width:320px; border: solid red;}
+
+.rs{position: relative; left: 30px;}
+.r1{border: solid; transition-property: all;
+     transition-duration: .5s;
+     transition-timing-function: ease-in-out;}
+     .r1:hover{width:320px; border: solid red;}
+
+     .r2{border: solid; transition-property: all;
+          transition-duration: .5s;
+          transition-timing-function: ease-in-out;}
+          .r2:hover{width:320px; border: solid red;}
+
+          .r3{border: solid; transition-property: all;
+               transition-duration: .5s;
+               transition-timing-function: ease-in-out;}
+               .r3:hover{width:320px; border: solid red;}
+
+.ropask{display: flex; justify-content: space-around;}
+body{background-color: burlywood;}
+.sksh{position: relative; left: 30px;}
+.w,.insta,.gmail{border: solid; width: 250px;}
+.con{display: flex; justify-content: space-around; }
+.c1{position: relative; left: 70px;}
+.c2{position: relative; left: 60px;}
+.c3{position: relative; left: 80px;}
+.num{position: relative; left:68px;}
+.ins{position: relative; left: 68px;}
+.tien{position: relative; left: 68px;}
+.paggos{position: relative; left: 35px;}
+.transferencia{font-size: 40px; position: relative;left: 30px;}
+.cbu{font-size: 20px; position: relative; left: 50px;}
+.metodop{position: relative; left: 410px; border: solid; background-color: rgb(13, 255, 0); width:300px;}
